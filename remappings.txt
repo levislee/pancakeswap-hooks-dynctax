@@ -1,0 +1,8 @@
+forge-std/=lib/forge-std/src/
+ds-test/=lib/forge-std/lib/ds-test/src/
+openzeppelin-contracts/=lib/infinity-universal-router/lib/infinity-periphery/lib/infinity-core/lib/openzeppelin-contracts/
+solmate/=lib/infinity-universal-router/lib/infinity-periphery/lib/infinity-core/lib/solmate/
+infinity-core/=lib/infinity-universal-router/lib/infinity-periphery/lib/infinity-core/
+infinity-periphery/=lib/infinity-universal-router/lib/infinity-periphery/
+infinity-universal-router/=lib/infinity-universal-router/
+permit2/=lib/infinity-universal-router/lib/infinity-periphery/lib/permit2/
